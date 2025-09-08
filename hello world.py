@@ -1,5 +1,9 @@
 def print_hello():
     print("hello world")
 
-if __name__ == '__main__':
+def print_kit():
+    print("kumoh national")
+
+if __name__=='_main_':
+    print_kit()
     print_hello()
