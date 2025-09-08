@@ -1,9 +1,10 @@
-def print_hello():
-    print("hello world")
+def add(x,y):
+    a = x+y
+    return a
 
 def print_kit():
     print("kumoh national")
 
 if __name__=='__main__':
     print_kit()
-    print_hello()
+    print(print_hello(1,2))
