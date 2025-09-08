@@ -4,6 +4,6 @@ def print_hello():
 def print_kit():
     print("kumoh national")
 
-if __name__=='_main_':
+if __name__=='__main__':
     print_kit()
     print_hello()
